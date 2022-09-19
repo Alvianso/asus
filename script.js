@@ -2,25 +2,32 @@
 ======================================*/
 var playlist = [
 	{
-		"song"    : "House of the Rising Sun",
-		"album"   : "The Animals",
-		"artist"  : "The Animals",
-		"artwork" : "http://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Rising_sun_animals_US.jpg/220px-Rising_sun_animals_US.jpg",
-		"mp3"     : "http://retro-disko.ru/6/music/016.mp3"
+		"song"    : "Di Kantor Tanpa Filter",
+		"album"   : "ASUS Vivobook Pro 14 OLED",
+		"artist"  : "ASUS AI Noise Canceling",
+		"artwork" : "https://github.com/Alvianso/asus/raw/main/laptop%20pro.png",
+		"mp3"     : "https://dlcdnwebimgs.asus.com/files/media/135a132c-826d-4bb4-bdc3-1bccb94fe0bf/v1.15/features//images/audio/office/scene-noise.mp3"
 	},
 	{
-		"song"    : "Superstition",
-		"album"   : "Talking Book",
-		"artist"  : "Stevie Wonder",
-		"artwork" : "https://i.imgur.com/Py4XcBT.png",
-		"mp3"     : "http://vocaroo.com/media_command.php?media=s1WYNvqulYH9&command=download_mp3"
+		"song"    : "Di Kantor Dengan Filter",
+		"album"   : "ASUS Vivobook Pro 14 OLED",
+		"artist"  : "ASUS AI Noise Canceling",
+		"artwork" : "https://github.com/Alvianso/asus/raw/main/laptop%20pro.png",
+		"mp3"     : "https://dlcdnwebimgs.asus.com/files/media/135a132c-826d-4bb4-bdc3-1bccb94fe0bf/v1.15/features//images/audio/office/scene.mp3"
 	},
 	{
-		"song"    : "I Need You Back",
-		"album"   : "Premiere",
-		"artist"  : "The Noisy Freaks",
-		"artwork" : "http://i1285.photobucket.com/albums/a583/TheGreatOzz1/Hosted-Images/Noisy-Freeks-Image_zps4kilrxml.png",
-		"mp3"     : "http://kirkbyo.net/Assets/The-Noisy-Freaks.mp3"
+		"song"    : "Di Rumah Tanpa Filter",
+		"album"   : "ASUS Vivobook Pro 14 OLED",
+		"artist"  : "ASUS AI Noise Canceling",
+		"artwork" : "https://github.com/Alvianso/asus/raw/main/laptop%20pro.png",
+		"mp3"     : "https://dlcdnwebimgs.asus.com/files/media/135a132c-826d-4bb4-bdc3-1bccb94fe0bf/v1.15/features//images/audio/home/scene-noise.mp3"
+	},
+		{
+		"song"    : "Di Rumah Dengan Filter",
+		"album"   : "ASUS Vivobook Pro 14 OLED",
+		"artist"  : "ASUS AI Noise Canceling",
+		"artwork" : "https://github.com/Alvianso/asus/raw/main/laptop%20pro.png",
+		"mp3"     : "https://dlcdnwebimgs.asus.com/files/media/135a132c-826d-4bb4-bdc3-1bccb94fe0bf/v1.15/features//images/audio/home/scene.mp3"
 	}
 ];
 
